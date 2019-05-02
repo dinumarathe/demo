@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "user": [
+    { "id": 1, "firstName" : "ganesh", "lastName": "marathe", "username":"ganesh", "age":"30", "salary":"50000"},
+    { "id": 2, "firstName" : "dinesh", "lastName": "marathe", "username":"dinesh", "age":"28", "salary":"60000"},
+    { "id": 3, "firstName" : "kalpesh", "lastName": "pawar", "username":"kalpesh", "age":"25", "salary":"65000"}
+  ]
 }
